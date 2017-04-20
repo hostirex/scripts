@@ -1,7 +1,7 @@
 #!/bin/bash
 echo 'Installing VmWare Tools...'
 echo '[vmware-tools]
-name=VMware Tools for Red Hat Enterprise Linux '$releasever' - '$basearch'
+name=VMware Tools for Red Hat Enterprise Linux $releasever - $basearch
 baseurl=http://packages.vmware.com/tools/esx/latest/rhel6/$basearch
 enabled=1
 gpgcheck=1
