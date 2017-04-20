@@ -1,2 +1,2 @@
-# scripts
+# Scripts
 SSH scripts for server management
