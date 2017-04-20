@@ -1,1 +1,1 @@
-	/usr/bin/mysqlcheck -Ao --auto-repair
+/usr/bin/mysqlcheck -Ao --auto-repair
