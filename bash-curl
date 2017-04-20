@@ -1,0 +1,1 @@
+bash <(curl -s https://raw.githubusercontent.com/hostirex/scripts/master/script_name.sh)
