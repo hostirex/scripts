@@ -7,4 +7,4 @@ enabled=1
 gpgcheck=1
 gpgkey=http://packages.vmware.com/tools/keys/VMWARE-PACKAGING-GPG-RSA-KEY.pub" >> /etc/yum.repos.d/vmware.repo
 yum -y install vmware-tools-esx-nox
-echo 'VmWare Tools installed'
+echo 'VmWare Tools Installed'
